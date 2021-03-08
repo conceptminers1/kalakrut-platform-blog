@@ -8,6 +8,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-sitemap`
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -43,7 +44,6 @@ module.exports = {
     title: 'KalaKrut Platform',
     siteUrl: 'https://kalakrutplatformblog.gatsbyjs.io/',
   },
-  plugins: ['gatsby-plugin-sitemap'],
 }
   ],
 }
