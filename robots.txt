@@ -1,0 +1,4 @@
+User-agent: *
+Allow:/
+Sitemap:https://kalakrutplatformblog.gatsbyjs.io/sitemap.xml
+Host: https://kalakrutplatformblog.gatsbyjs.io/
