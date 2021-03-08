@@ -166,6 +166,17 @@ export default ({ children, location }) => (
               />
               <strong>Cosmic JS</strong>
             </a>
+            &nbsp;and&nbsp;
+            <a
+              target="_blank"
+              href="https://kalakrut.business.site"
+              style={{
+                color: '#191919',
+                boxShadow: 'none',
+              }}
+            >
+             <strong>KalaKrut Platform</strong>
+            </a>
           </footer>
         </div>
       )
