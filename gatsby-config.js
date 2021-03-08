@@ -38,5 +38,12 @@ module.exports = {
         pathToConfigModule: 'src/utils/typography',
       },
     },
+module.exports = {
+  siteMetadata: {
+    title: 'Your Site Title',
+    siteUrl: 'https://yoursite.com',
+  },
+  plugins: ['gatsby-plugin-sitemap'],
+}
   ],
 }
