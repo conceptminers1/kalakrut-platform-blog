@@ -147,7 +147,7 @@ export default ({ children, location }) => (
               />
               <strong>Gatsby</strong>
             </a>
-            &nbsp;and&nbsp;
+            &nbsp;,&nbsp;
             <a
               target="_blank"
               href="https://cosmicjs.com"
