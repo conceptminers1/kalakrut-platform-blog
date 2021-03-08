@@ -40,8 +40,8 @@ module.exports = {
     },
 module.exports = {
   siteMetadata: {
-    title: 'Your Site Title',
-    siteUrl: 'https://yoursite.com',
+    title: 'KalaKrut Platform',
+    siteUrl: 'https://kalakrutplatformblog.gatsbyjs.io/',
   },
   plugins: ['gatsby-plugin-sitemap'],
 }
