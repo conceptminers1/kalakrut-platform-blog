@@ -16,14 +16,14 @@ siteMetadata: {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-      output: `./sitemap.xml`,
-      exclude: [`./settings`]
+      output: `/sitemap.xml`,
+      exclude: [`/settings`]
       },
     },
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-      output: `./robots.txt`,
+      output: `/robots.txt`,
       },
     },
     {
