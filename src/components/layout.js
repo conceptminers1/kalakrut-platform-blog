@@ -5,6 +5,7 @@ import BackgroundImage from 'gatsby-background-image'
 
 import cosmicjsLogo from '../../static/cosmicjs.svg'
 import gatsbyLogo from '../../static/gatsby.png'
+import kalakrutLogo from '../../static/48e394c0-7de1-11eb-bca3-dfdf3200bafd-PicsArt10-26-10.17.00.png'
 import { rhythm, scale } from '../utils/typography'
 
 // Import typefaces
@@ -175,6 +176,14 @@ export default ({ children, location }) => (
                 boxShadow: 'none',
               }}
             >
+              <img
+                src={kalakrutLogo}
+                alt="KalaKrut Platform"
+                style={{
+                  width: '18px',
+                  margin: '0 4px -2px 5px',
+                }}
+              />
              <strong>KalaKrut Platform</strong>
             </a>
           </footer>
