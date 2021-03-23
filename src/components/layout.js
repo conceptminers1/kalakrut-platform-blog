@@ -171,7 +171,7 @@ export default ({ children, location }) => (
               target="_blank"
               href="https://kalakrut.business.site"
               style={{
-                color: '#191919',
+                color: '#ff0000',
                 boxShadow: 'none',
               }}
             >
