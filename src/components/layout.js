@@ -181,7 +181,7 @@ export default ({ children, location }) => (
                 alt="KalaKrut Platform"
                 style={{
                   width: '20px',
-                  margin: '0 4px 2px 5px',
+                  margin: '0 4px 1px 5px',
                 }}
               />
              <strong>KalaKrut Platform</strong>
