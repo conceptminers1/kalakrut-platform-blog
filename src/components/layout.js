@@ -180,8 +180,8 @@ export default ({ children, location }) => (
                 src={kalakrutLogo}
                 alt="KalaKrut Platform"
                 style={{
-                  width: '18px',
-                  margin: '0 4px 0px 5px',
+                  width: '20px',
+                  margin: '0 4px 2px 5px',
                 }}
               />
              <strong>KalaKrut Platform</strong>
