@@ -59,7 +59,7 @@ export const pageQuery = graphql`
           }
           slug
           title
-          created(formatString: "DD MMMM, YYYY")
+          created(formatString: "[First Post Created on] DD MMMM, YYYY")
         }
       }
     }
