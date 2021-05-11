@@ -124,7 +124,7 @@ export const pageQuery = graphql`
       id
       content
       title
-      created(formatString: "[Post created:] DD MMMM, YYYY [and Edited]")
+      created(formatString: "[First created:] DD MMMM, YYYY [and Edited]")
 
 metadata {
         hero {
