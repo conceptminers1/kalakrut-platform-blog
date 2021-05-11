@@ -124,8 +124,9 @@ export const pageQuery = graphql`
       id
       content
       title
-      created(formatString: "MMMM DD, YYYY")
-      metadata {
+      created(formatString: "[Post created:] DD MMMM, YYYY [and Edited]")
+
+metadata {
         hero {
           local {
             childImageSharp {
